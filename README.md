@@ -26,4 +26,4 @@ I analyzed time-based trends, if applicable (time series plots).
 I used advanced visualization techniques, like 3D plots.
 
 
-Check my work : https://www.kaggle.com/code/lanaxixioi/python-project-data-intern/notebook .
+Check my work : (https://www.kaggle.com/code/lanaxixioi/python-project-data-intern) .
